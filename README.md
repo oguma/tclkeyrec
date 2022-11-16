@@ -2,7 +2,7 @@
 
 A simple audio recorder.
 
-It's good to use with USB foot pedal.
+It's good to use with USB foot pedal or Joypad.
 
 ## How to use
 
