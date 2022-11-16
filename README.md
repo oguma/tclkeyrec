@@ -22,5 +22,5 @@ Edit `record.tcl` directly to assign other keys.
 
 ## For...
 
-- Musical instruments
+- Playing musical instruments
 - Speaking, language learning
