@@ -15,3 +15,8 @@ It's good to use with USB foot pedal or Joypad.
 - c: stop
 
 Edit `record.tcl` directly to assign other keys.
+
+## Practices for...
+
+- Musical instruments
+- Speaking, language learning
