@@ -6,7 +6,7 @@ It's good to use with USB foot pedal.
 
 ## How to use
 
-    $ ./record.tcl
+    $ ./keyrec.tcl
 
 ## Keyboard shortcuts
 
