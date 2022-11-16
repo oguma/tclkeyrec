@@ -10,7 +10,9 @@ It's good to use with USB foot pedal or Joypad.
 
 ## How to use
 
-    $ ./record.tcl
+    $ ./record.tcl &
+
+(You can launch multiple `record.tcl` windows to keep multiple records)
 
 ### Keyboard
 
