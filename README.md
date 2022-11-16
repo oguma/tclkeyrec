@@ -8,7 +8,7 @@ It's good to use with USB foot pedal.
 
     $ ./record.tcl
 
-## Keyboard shortcuts
+### Keyboards
 
 - a: record
 - b: play
