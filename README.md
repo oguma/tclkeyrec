@@ -12,7 +12,7 @@ It's good to use with USB foot pedal or Joypad.
 
     $ ./record.tcl &
 
-(You can launch multiple `record.tcl` windows to keep multiple records)
+( You can launch multiple `record.tcl` windows to keep multiple records )
 
 ### Keyboard
 
@@ -26,3 +26,4 @@ Edit `record.tcl` directly to assign other keys.
 
 - Singing, playing musical instruments
 - Speech, speaking and language learning
+- Song arrangement, songwriting
