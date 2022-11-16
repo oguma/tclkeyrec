@@ -2,7 +2,7 @@
 
 A simple audio recorder.
 
-It's good to use with USB 3 switch foot pedal.
+It's good to use with USB foot pedal.
 
 ## How to use
 
