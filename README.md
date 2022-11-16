@@ -6,7 +6,7 @@ It's good to use with USB foot pedal or Joypad.
 
 ## Installation
     
-    sudo apt install tcl-snack
+    $ sudo apt install tcl-snack
 
 ## How to use
 
