@@ -14,4 +14,4 @@ It's good to use with USB 3 switch foot pedal.
 - b: stop
 - c: play
 
-You can edit source code to assign other keys.
+Edit source code to assign other keys.
