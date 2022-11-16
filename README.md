@@ -1,4 +1,4 @@
-# tclrecorder
+# tclrecord
 
 A simple audio recorder.
 
