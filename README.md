@@ -14,4 +14,4 @@ It's good to use with USB foot pedal.
 - b: play
 - c: stop
 
-Edit source code to assign other keys.
+Edit `record.tcl` directly to assign other keys.
