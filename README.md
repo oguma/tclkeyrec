@@ -11,7 +11,7 @@ It's good to use with USB foot pedal.
 ## Keyboard shortcuts
 
 - a: record
-- b: stop
-- c: play
+- b: play
+- c: stop
 
 Edit source code to assign other keys.
