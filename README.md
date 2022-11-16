@@ -20,7 +20,7 @@ It's good to use with USB foot pedal or Joypad.
 
 Edit `record.tcl` directly to assign other keys.
 
-## Practices for...
+## Practices of...
 
 - Musical instruments
 - Speaking, language learning
