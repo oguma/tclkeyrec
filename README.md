@@ -14,7 +14,7 @@ It's good to use with USB foot pedal or Joypad.
 
 ( You can launch multiple `record.tcl` to keep multiple records )
 
-![](recordtcldesktop.png)
+![](recordtcl_desktop_example.png)
 
 ### Keyboard
 
