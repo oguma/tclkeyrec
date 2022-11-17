@@ -4,6 +4,8 @@ package require snack
 
 snack::sound t -debug 0
 
+wm title . ""
+
 bind . a Record
 bind . b Play
 bind . c Stop
