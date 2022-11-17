@@ -12,7 +12,7 @@ It's good to use with USB foot pedal or Joypad.
 
     $ ./record.tcl &
 
-( You can launch multiple `record.tcl` to keep multiple records )
+You can launch multiple `record.tcl` to keep multiple records.
 
 ![](recordtcl_desktop_example.png)
 
