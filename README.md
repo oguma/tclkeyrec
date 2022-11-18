@@ -4,7 +4,8 @@ A simple audio recorder.
 
 It's good to use with USB foot pedal or Joypad.
 
-![](_footpedal_example.jpg)
+![](_footpedal_example.jpg)  
+( _footpedal_example.jpg )
 
 ## Installation
     
