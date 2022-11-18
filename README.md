@@ -4,6 +4,8 @@ A simple audio recorder.
 
 It's good to use with USB foot pedal or Joypad.
 
+![](_footpedal.jpg)
+
 ## Installation
     
     $ sudo apt install tcl-snack
